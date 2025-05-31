@@ -9,7 +9,7 @@
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rifdahtulaisya/) 
-[![X/Twitter](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=Twitter)](https://x.com/Rnlzrd) 
+[![X/Twitter](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=Twitter)](https://x.com/rifdahtulaisya) 
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@rifdahtulaisya) 
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)](https://rnlzrd.medium.com/) 
 [![Bluesky](https://img.shields.io/badge/-Bluesky-000?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rnlzrd.bsky.social) 
