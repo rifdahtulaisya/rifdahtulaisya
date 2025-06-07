@@ -1,7 +1,6 @@
 [![Rifdahtul Aisya.](https://res.cloudinary.com/dkkdwil6w/image/upload/v1743329785/rnlzrd_rt0tef.png)](https://itsrifdah.netlify.app/)
 
 <h1 align="center">Hello, I'm Rifdahtul Aisya</h1>
-<h3 align="center">I'm an  with a passion for creating fun websites and eye-catching graphic designs! I love blending creativity with technology to bring unique ideas to life.</h3>
 
 # 📬 Let's Talk:
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail)](mailto:rifdah.a122@gmail.com)
@@ -11,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rifdahtulaisya/) 
 [![X/Twitter](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=Twitter)](https://x.com/rifdahtulaisya) 
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@rifdahtulaisya) 
-[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)](https://rnlzrd.medium.com/) 
-[![Bluesky](https://img.shields.io/badge/-Bluesky-000?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rnlzrd.bsky.social) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rifdahtul-aisya-8a29b52b3/) 
 
 
